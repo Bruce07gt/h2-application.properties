@@ -1,13 +1,13 @@
 # h2
 
-spring.h2.console.enabled=true
-spring.h2.console.path=/h2-console
+spring.h2.console.enabled=true <br>
+spring.h2.console.path=/h2-console <br>
 <br>
-spring.datasource.url=jdbc:h2:mem:testdb
-spring.datasource.username=sa
-spring.datasource.password=
-spring.datasource.driver-class-name=org.h2.Driver
-server.port = 8080
+spring.datasource.url=jdbc:h2:mem:testdb <br>
+spring.datasource.username=sa <br>
+spring.datasource.password= <br>
+spring.datasource.driver-class-name=org.h2.Driver <br>
+server.port = 8080 <br>
 <br>
-spring.jpa.show-sql=true
+spring.jpa.show-sql=true <br>
 spring.jpa.properties.hibernate.format_sql=true
