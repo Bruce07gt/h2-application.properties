@@ -1,4 +1,4 @@
-# h2
+# h2-application.properties
 
 spring.h2.console.enabled=true <br>
 spring.h2.console.path=/h2-console <br>
